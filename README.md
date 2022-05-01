@@ -19,5 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen neyi deği�
 
 [MIT](https://choosealicense.com/)
 
-![## Lorem Picsum Gorsel] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+![Proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
